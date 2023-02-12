@@ -1,9 +1,9 @@
 # DBVM - Database Virtual Machine
 A Virtual appliance that contains open source and microsoft sql server express databases
 
-**PostgreSQL 15
-MySQL 8.0
-MongoDB 6.0
+**PostgreSQL 15 <br>
+MySQL 8.0<br>
+MongoDB 6.0<br>
 Microsoft SQL Server 2022 Express Edition**
 
 
