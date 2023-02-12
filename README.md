@@ -7,6 +7,14 @@ MongoDB 6.0<br>
 Microsoft SQL Server 2022 Express Edition**
 
 
+Download 7-Zip 22.01 (2022-07-15) for Windows:
+
+Link	Type	Windows	Size
+Download	.exe	64-bit x64	1.5 MB
+Download	.exe	32-bit x86	1.2 MB
+Download	.exe	64-bit ARM64	1.5 MB
+
+
 Please download the OVA file here
 
 https://1drv.ms/u/s!Apzm-N3a7XrWjJJz4MWorj5jnF7jbw?e=hlH0n1
