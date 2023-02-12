@@ -9,11 +9,7 @@ Microsoft SQL Server 2022 Express Edition**
 
 Download 7-Zip 22.01 (2022-07-15) for Windows:
 
-Link	Type	Windows	Size
-Download	.exe	64-bit x64	1.5 MB
-Download	.exe	32-bit x86	1.2 MB
-Download	.exe	64-bit ARM64	1.5 MB
-
+https://www.7-zip.org/download.html
 
 Please download the OVA file here
 
